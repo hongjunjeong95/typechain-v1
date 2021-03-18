@@ -1,0 +1,14 @@
+{
+  "name": "typechain-v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hong Jun",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
